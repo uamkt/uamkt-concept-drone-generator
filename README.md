@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="makerworld/thumbnail-4x3.png" alt="UAMKT Concept Drone Generator" width="640">
+  <img src="thumbnail-4x3.png" alt="UAMKT Concept Drone Generator" width="640">
 </p>
 
 <h1 align="center">Concept Drone Generator</h1>
